@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>  
+<?xml version="1.0" encoding="UTF-8"?>  
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
@@ -12,7 +12,7 @@ Muestra la ubicacion del dispositivo de acuerdo al GPS y en el mapa de google ma
 </description>
 
 <author href="https://build.phonegap.com" email="zunigajoselin128@gmail.com">
-Joselin del Carmen Zuñiga Esquivel
+Joselin del Carmen Zuliga Esquivel
 </author>
 
 <!--Personaliza la aplicacion y plataforma -->
@@ -40,3 +40,5 @@ Joselin del Carmen Zuñiga Esquivel
 <icon src="res/android/mdpi.png"/>
 
 </widget>
+
+
